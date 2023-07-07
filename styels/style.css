@@ -1,0 +1,145 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	line-height: 18px;
+}
+.mainDiv {
+	/* padding-top: 8px; */
+	/* height: 39.42;
+	width: 112px; */
+	/* margin: 8px auto; */
+	font-family: arial;
+	margin-bottom: 13px;
+	padding-top: 7px;
+
+}
+
+.imgFacebook {
+	height: 80px;
+	width:235px;
+	/* text-align: center; */
+	cursor: pointer;
+}
+
+.mainBody {
+	width: 416px;
+	height: 303px;
+	margin: 0 auto;
+	padding-right: 16px;
+	padding-left: 16px;
+}
+.threeIn {
+	width: 416px;
+	height: 146px;
+	padding-top: 8px;
+	padding-bottom: 1px;
+}
+.inputEmail {
+	width: 392px;
+	height: 18px;
+	border: 0px;
+	background-color: #F5F6F7;
+	padding: 12px;
+}
+.div01 {
+	height: 0px;
+	width: 408px;
+	padding: 4px;
+}
+.buttonUp {
+	width: 416px;
+	height: 40px;
+	padding-top: 12px;
+
+
+}
+.buttonDiv {
+	/* blank */
+
+}
+.buttonBoss {
+	width: 416px;
+	height:40px;
+	padding-left: 16px;
+	padding-right: 16px;
+	background-color:#1877F2;
+	border: 0px;
+	cursor: pointer;
+}
+.buttonBoss:hover {
+	background-color: #3b5898;
+	cursor: pointer;
+}
+.divH3 {width: 51px;
+	height: 24px;
+	margin:0 auto;
+	margin-top: 6px;
+	color: white;
+}
+.createAccount {
+	width: 416px;
+	height: 136px;
+}
+.accountCreate {
+	width: 416px;
+	height: 82px;
+
+}
+.orFacebook {
+	width: 416px;
+	height: 18px;
+	margin-top: 12px;
+	margin-bottom: 4px;
+	text-align: center;
+
+}
+span {
+    cursor: pointer;
+}
+.createAccountg {
+	width: 416px;
+	height: 36px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	text-align: center;
+
+}
+button {
+	width: 168px;
+	height: 35px;
+	border: 0px;
+	background-color: #00a400;
+	color: white;
+	border-radius: 3px;
+	cursor: pointer;
+}
+button:hover {
+    background: #18B03E;
+}
+.forgatePassword {
+	width: 416px;
+	height: 54px;
+	text-align: center;
+}
+a {
+	text-decoration: none;
+	color: #7596c8
+}
+.mainFotter {
+	height: 25px;
+	width: 416px;
+	color: white;
+    background-color: #1877F2;
+    padding-top: 7px;
+    border-radius: 3px;
+    margin: 0 auto;
+    text-align: center;
+    cursor: pointer;
+    margin-top: 220px;
+}
+.mainFotter:hover {
+	background-color:#3b5898;
+}
+main {
+	height: 100vh;
+}
